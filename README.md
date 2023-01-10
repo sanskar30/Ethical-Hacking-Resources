@@ -24,3 +24,5 @@ Contents
 17. [Module 17 - Hacking Mobile Platforms]()
 19. [Module 19 - Cloud Computing]()
 20. [Module 20 - Cryptography]()
+
+Most of the resources here were taken from https://github.com/Samsar4
