@@ -5,7 +5,7 @@ Learn Ethical Hacking for free. All the resources will be provided
 </p>
 
 Contents 
-1. [Module 01 - Introduction to Ethical Hacking]()
+1. [Module 01 - Introduction to Ethical Hacking](https://github.com/sanskar30/Ethical-Hacking-Resources/blob/main/Introduction.md)
 2. [Module 02 - Footprinting and Reconnaissance]()
 3. [Module 03 - Scanning Networks]()
 4. [Module 04 - Enumeration]()
