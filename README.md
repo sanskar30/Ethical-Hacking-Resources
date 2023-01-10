@@ -6,7 +6,7 @@ Learn Ethical Hacking for free. All the resources will be provided
 
 Contents 
 1. [Module 01 - Introduction to Ethical Hacking]()
-2. [Module 02 - Footprinting and Reconnaissance](
+2. [Module 02 - Footprinting and Reconnaissance]()
 3. [Module 03 - Scanning Networks]()
 4. [Module 04 - Enumeration]()
 5. [Module 05 - Vulnerability Analysis](h)
