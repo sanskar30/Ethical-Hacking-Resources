@@ -24,4 +24,4 @@ Contents
 17.[Module 17 - Cryptography](https://github.com/sanskar30/Ethical-Hacking-Resources/blob/main/20-Cryptography.md)
 Most of the resources here were taken from https://github.com/Samsar4
 
-Checkout my ethical hacking course in hindi 
+Checkout my ethical hacking course in hindi https://youtube.com/playlist?list=PLseBXfEkeHXkr7JtlIlgANiW-a2fGMrxH
